@@ -1,3 +1,3 @@
-# css3-icons
+# 纯CSS3的icon图标
 
-纯CSS图标
+直接看代码
